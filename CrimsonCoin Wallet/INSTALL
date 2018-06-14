@@ -1,0 +1,4 @@
+Building CrimsonCoin
+See doc/readme-qt.rst for instructions on building CrimsonCoin QT.
+
+See doc/build-*.txt for instructions on building crimsoncoind.
